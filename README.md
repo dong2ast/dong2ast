@@ -32,7 +32,21 @@
 <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="48" style="width: 48px; height: 48px;" />
 <br><br>
 
+### 👇 About Me 
+<span>
+  <a href="mailto:kdh01132006@uos.ac.kr">
+    <img src="https://img.shields.io/badge/Email-black?style=plastic&logo=Gmail&logoColor=white"/>
+  </a>
+</span>
+<span>
+  <a href="https://www.instagram.com/dong2.ast/">
+    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
+  </a>
+</span>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdong2ast&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
+<br><br>
 
+<br><br>
 <div allign="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dong2ast&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=40% />
