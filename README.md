@@ -16,13 +16,8 @@
 <img src="https://img.shields.io/badge/Nginx-009639?style=plastic&logo=Nginx&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white">
 <br>
-<img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=plastic&logo=Amazon%20EC2&logoColor=white">
-<img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=plastic&logo=Amazon%20RDS&logoColor=white">
-<img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=plastic&logo=Amazon%20S3&logoColor=white">
-<img src="https://img.shields.io/badge/Github%20Actions-2088FF?style=plastic&logo=Github%20Actions&logoColor=white">
-<br>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=PostgreSQL&logoColor=white">
+<img src="https://img.shields.io/badge/Github%20Actions-2088FF?style=plastic&logo=Github%20Actions&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=white"/>
 <br>
